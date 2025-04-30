@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    padding: 15px;
+    background-color:BlueViolet ;
+    border-radius: 12px;
+}
+header a {
+    text-decoration: none;
+    color: Magenta;
+    border: 1px solid rgba(245, 245, 245, 0.508);
+    padding:5px;
+}
+h1{
+    text-align: center;
+    color:#F4A900;
+    font-size:57px;
+}
+
+footer{
+    background-color: #2A5C03;
+    border-radius:10px;
+    padding: 5px;
+}
+footer p {
+color:#ffa987fe;
+padding: 5px;
+}
+nav{
+    border: 2px solid #660099;
+border-radius: 7px;
+padding: 13px;
+}
+nav a {
+    text-decoration: none;
+    color: #1E2460;
+    border:1px solid #e80a93fe;
+    border-radius: 15px;
+    padding: 6px;
+    margin: 30px;
+}
+ .prodakshin{
+    background-color: Tomato;
+    margin: 15px;
+    padding: 26px;
+    border-radius: 77px;
+ }
+
+ h2{
+    color: #f4a900;
+    font-size:50px;
+ }
+ .knopki{
+    text-decoration: none;
+    color: Red;
+ }
